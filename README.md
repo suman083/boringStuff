@@ -1,2 +1,2 @@
 # boringStuff
-tutorials perpose
+tutorials perpose git repository
